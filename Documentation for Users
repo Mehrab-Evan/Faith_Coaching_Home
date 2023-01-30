@@ -1,0 +1,11 @@
+Documentation for Users:
+
+1. Download The Zip and extract the folder to xampp>htdocs
+2. Open the project in VS Code
+3. Go to Terminal and run these commands.
+4. If composer is not updated Run the command : composer update
+5. You must run the xampp control panel and start apache server and MySQL.
+6. Then migrate the database’s tables through the command : php artisan migrate
+7. Run the Program Through : php artisan serve command
+8. The Software will Run. But to access the teachers details first Go to Database and insert a username and password for the first time. From the next time it could be manually handled through the software easily.
+
